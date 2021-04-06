@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+fire==0.4.0
+lxml==4.6.3
+numpy==1.20.2
+pandas==1.2.3
+python-dateutil==2.8.1
+pytz==2021.1
+six==1.15.0
+soupsieve==2.2.1
+termcolor==1.1.0
